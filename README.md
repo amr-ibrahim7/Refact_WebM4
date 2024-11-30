@@ -1,5 +1,6 @@
 # Advanced Blog Template  
 
+
 ## Project Overview  
 This is an advanced, responsive blog template built with Bootstrap 5, featuring semantic HTML5, accessibility improvements, and modern web design practices.  
 
@@ -17,19 +18,33 @@ This is an advanced, responsive blog template built with Bootstrap 5, featuring 
 
 ---
 
-## Project Structure  
+## Technologies Used
+
+- **HTML5** 
+- **CSS3** 
+- **Bootstrap 5** 
+- **Vanilla JavaScript** 
+
+## Performance Considerations
+- **Minimal external dependencies** 
+- **Responsive design** 
+
+## Project Structure
+```text
 advanced-blog/
 ├── index.html
 ├── css/
-│ └── styles.css
+│   └── styles.css
 ├── js/
-│ └── main.js
+│   └── main.js
 └── README.md
 
+---
 
-Technologies Used
-HTML5
-CSS3
+## Technologies Used
+
+- **HTML5** 
+- **CSS3** 
 Bootstrap 5
 Vanilla JavaScript
 Performance Considerations
