@@ -41,17 +41,4 @@ advanced-blog/
 
 ---
 
-## Technologies Used
 
-- **HTML5** 
-- **CSS3** 
-Bootstrap 5
-Vanilla JavaScript
-Performance Considerations
-Non-blocking CSS loading
-Minimal external dependencies
-Responsive design
-Future Improvements
-Implement server-side form handling.
-Add blog post dynamic loading.
-Enhance accessibility features.
